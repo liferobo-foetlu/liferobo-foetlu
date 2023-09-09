@@ -11,11 +11,11 @@ In this repository, you will find:
 3. Documentation: Find detailed guides, tutorials, and documentation for our projects and technologies.
 4. Events: Stay updated on our upcoming events, competitions, and workshops.
 5. and much more
+
 STAY TUNED!!
 
 Connect with Us:
 Website: 
-
 Email: 
-
+LinkedIn:
 Twitter: @RoboLifeLU
